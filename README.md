@@ -14,7 +14,6 @@ The Geospatial School Mapping project uses geographic data to map and analyze th
 - **Python**: For data processing and analysis.
 - **Geospatial Libraries**: Such as `GeoPandas`, `Folium`, and `Shapely` for map visualization and spatial analysis.
 - **Pandas**: For data manipulation and analysis.
-- **Matplotlib & Seaborn**: For data visualization.
 
 ## How to Run
 
