@@ -32,7 +32,7 @@ The Geospatial School Mapping project uses geographic data to map and analyze th
 3. Run the script:
 
     ```bash
-    python geospatial_school_mapping.py
+    steramlit run newMainApp.py
     ```
 
 ## License
